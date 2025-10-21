@@ -83,7 +83,8 @@ return {
                 text = {
                     {
                         "选择{C:attention}盲注{}时{C:attention}除外{}",
-                        "直到击败{C:attention}首领盲注{}后生成{C:attention}#1#{}张",
+                        "直到击败{C:attention}首领盲注{}",
+						"并在除外时生成{C:attention}#1#{}张",
                         "{C:joy_normal}主卡组「机界骑士」{}",
                         "{C:inactive}(需有空位){}",
                     },
